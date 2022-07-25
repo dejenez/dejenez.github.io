@@ -2,25 +2,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Dejene Zewdie Woldeyes</title>
-        <link>https://dejenezewdie.github.io</link>
+        <link>https://dejenez.github.io</link>
         <description>My Personal Website</description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://dejenezewdie.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://dejenez.github.io/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate>
         <item>
             <title>My trip to the UK with WAKE</title>
             <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-            <link>https://dejenezewdie.github.io/posts/wake-trip/</link>
-            <guid>https://dejenezewdie.github.io/posts/wake-trip/</guid>
+            <link>https://dejenez.github.io/posts/wake-trip/</link>
+            <guid>https://dejenez.github.io/posts/wake-trip/</guid>
             <description>&lt;p&gt;I had a great time.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>My trip to Spain</title>
             <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-            <link>https://dejenezewdie.github.io/posts/trip-to-spain/</link>
-            <guid>https://dejenezewdie.github.io/posts/trip-to-spain/</guid>
+            <link>https://dejenez.github.io/posts/trip-to-spain/</link>
+            <guid>https://dejenez.github.io/posts/trip-to-spain/</guid>
             <description>&lt;p&gt;I had fun at Spain.&lt;&#x2F;p&gt;
 </description>
         </item>
